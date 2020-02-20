@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/0x_anon maxwidth=500 limit=5 %}
+</div>
