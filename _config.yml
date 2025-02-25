@@ -1,3 +1,1 @@
-theme: jekyll-theme-hacker
-plugins:
-  - jekyll-gist
+remote_theme: jekyll-theme-dinky
